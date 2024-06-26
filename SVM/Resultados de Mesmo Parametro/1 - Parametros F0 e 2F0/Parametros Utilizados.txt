@@ -1,0 +1,5 @@
+alpha=0.001
+loss='log_loss'
+panalty='elasticnet'
+
+foi obtido do banco de dados da fundamental e e 2º Harmonico
